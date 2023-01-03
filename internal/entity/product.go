@@ -27,7 +27,7 @@ func NewProduct(name string, price float64) (*Product, error) {
 		ID:        entity.NewID(),
 		Name:      name,
 		Price:     price,
-		CreatedAt: string,
+		CreatedAt: time.Now(),
 	}
 	err := product.Validate()
 	if err != nil {

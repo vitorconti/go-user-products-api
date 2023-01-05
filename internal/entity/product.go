@@ -19,7 +19,7 @@ type Product struct {
 	ID        entity.ID `json:"id"`
 	Name      string    `json:"name"`
 	Price     float64   `json:"price"`
-	CreatedAt time.Time `json:"CreatedAt"`
+	CreatedAt time.Time `json:"createdAt"`
 }
 
 func NewProduct(name string, price float64) (*Product, error) {

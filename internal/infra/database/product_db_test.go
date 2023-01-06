@@ -5,8 +5,8 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/devfullcycle/goexpert/9-APIS/internal/entity"
 	"github.com/stretchr/testify/assert"
+	"github.com/vitorconti/go-user-products-api/internal/entity"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 )

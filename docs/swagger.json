@@ -7,10 +7,6 @@
         "contact": {
             "name": "Jose Vitor"
         },
-        "license": {
-            "name": "Full Cycle License",
-            "url": "http://www.fullcycle.com.br"
-        },
         "version": "1.0"
     },
     "host": "localhost:8000",

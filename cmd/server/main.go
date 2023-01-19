@@ -24,9 +24,6 @@ import (
 
 // @contact.name   Jose Vitor
 
-// @license.name   Full Cycle License
-// @license.url    http://www.fullcycle.com.br
-
 // @host      localhost:8000
 // @BasePath  /
 // @securityDefinitions.apikey ApiKeyAuth

@@ -49,9 +49,6 @@ info:
   contact:
     name: Jose Vitor
   description: Product API with auhtentication
-  license:
-    name: Full Cycle License
-    url: http://www.fullcycle.com.br
   termsOfService: http://swagger.io/terms/
   title: Go Expert API Example
   version: "1.0"

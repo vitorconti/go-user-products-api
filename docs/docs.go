@@ -14,10 +14,6 @@ const docTemplate = `{
         "contact": {
             "name": "Jose Vitor"
         },
-        "license": {
-            "name": "Full Cycle License",
-            "url": "http://www.fullcycle.com.br"
-        },
         "version": "{{.Version}}"
     },
     "host": "{{.Host}}",

@@ -1,6 +1,4 @@
-A RESTful API example for simple user-producs application with Go
-
-It is a just simple go application using go-chi and gorm
+It is a just simple go RESTful API using go-chi and gorm
 
 ## Installation & Run
 ```bash
